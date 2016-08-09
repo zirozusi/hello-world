@@ -1,2 +1,3 @@
 # hello-world
 Well, the guide says I can store ideas and resources here...as well as share thoughts with others. Smiles...
+So Github is this easy just following the guide or am I deluding myself all too soon? Half-hearted smile.
